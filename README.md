@@ -9,7 +9,7 @@
 
 <h1>Some of my Projects</h1>
 <h3>Upcoming space game</h3>
-<img src = "mr ziegler meme.png" />
+<img src = "./mr ziegler meme.PNG" />
 
 <!--
 **Bkaden880/Bkaden880** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
